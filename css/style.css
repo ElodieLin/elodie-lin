@@ -7503,11 +7503,11 @@ h1, h2, h3, h4, h5,
   /* hero bg image */
   /* portfolio-24h app */
   #portfolio-single-A.hero-wrap .overlay{
-    background: -moz-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main.jpg) no-repeat 50% 50%;   
-    background: -webkit-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main.jpg) no-repeat 50% 50%;   
-    background: -o-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main.jpg) no-repeat 50% 50%;
-    background: -ms-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main.jpg) no-repeat 50% 50%;
-    background: linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main.jpg) no-repeat 50% 50%;
+    background: -moz-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main2.jpg) no-repeat 50% 50%;   
+    background: -webkit-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main2.jpg) no-repeat 50% 50%;   
+    background: -o-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main2.jpg) no-repeat 50% 50%;
+    background: -ms-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main2.jpg) no-repeat 50% 50%;
+    background: linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/24happ_main2.jpg) no-repeat 50% 50%;
     background-size: cover;
   }
   /* portfolio-24h app */
