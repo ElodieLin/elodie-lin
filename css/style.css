@@ -7562,6 +7562,16 @@ h1, h2, h3, h4, h5,
     background: linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/crazic_page_main.svg) no-repeat 50% 50%;
     background-size: cover;
   }
+
+     /* YumFresh */
+     #portfolio-fresh.hero-wrap .overlay{
+      background: -moz-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/fresh-1.jpg) no-repeat 50% 50%;   
+      background: -webkit-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/fresh-1.jpg) no-repeat 50% 50%;   
+      background: -o-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/fresh-1.jpg) no-repeat 50% 50%;
+      background: -ms-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/fresh-1.jpg) no-repeat 50% 50%;
+      background: linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/fresh-1.jpg) no-repeat 50% 50%;
+      background-size: cover;
+    }
    /* Gallery */
    #portfolio-gallery.hero-wrap .overlay{
     background: -moz-linear-gradient(45deg,rgba(19, 106, 138, 0.9) 0%,rgba(38, 120, 113, 0.7) 100%), url(../images/g-main.jpg) no-repeat 50% 50%;   
